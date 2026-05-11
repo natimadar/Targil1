@@ -23,6 +23,8 @@ export default function App() {
     { name: "Headphones", price: 400, inStock: true },
     { name: "Headphones", price: 18, inStock: true },
     { name: "Headphones", price: 180000, inStock: true },
+    { name: "jeusalem", price: 1, inStock: true },
+
   ];
 
   return (
